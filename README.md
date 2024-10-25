@@ -1,4 +1,4 @@
-# TSW00-LABS-PREREQUISITES
+# [Transferable Skills Workshops] - Labs Prerequisites
 
 ## Introduction
 Welcome to the **UCL Photonics Society's transferable skills workshop series**!👩‍🎓👨‍🎓
