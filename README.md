@@ -36,7 +36,7 @@ To get the most out of the workshops, it is best that you familiarise yourself w
 ➡️ I have familiarised myself with the concepts of [branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches), [pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), as well as with the [conventional commit messages structure](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13).
 
 ### 🐍 Python checklist
-✅ I have installed [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html), either `miniconda` (just the CLI tools) or the full `Anaconda` distribution (CLI tools + GUI). *Note: we will only be using the conda CLI tools in the lab*.
+✅ I have installed [python](https://www.python.org/downloads/)≥3.9.
 
 ✅ I am familiar with the [python programming language](https://www.w3schools.com/python/default.asp), and in particular how to create [functions](https://www.w3schools.com/python/python_functions.asp) and [classes](https://www.w3schools.com/python/python_classes.asp).
 
