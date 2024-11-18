@@ -12,7 +12,9 @@ To get the most out of the workshops, it is best that you familiarise yourself w
 * ✅ - mandatory
 * ➡️ - recommended
 
-### [TSW01-REPRODUCIBLE-OPEN-SOURCE](https://github.com/UCL-Photonics-Society/TSW01-REPRODUCIBLE-OPEN-SOURCE)
+---
+
+### TSW01-REPRODUCIBLE-OPEN-SOURCE
 
 #### 💻 OS and IDE checklist
 ✅ I know how to navigate in my terminal using the CLI commands `cd`, `ls`, and `pwd`.
@@ -39,4 +41,6 @@ To get the most out of the workshops, it is best that you familiarise yourself w
 ✅ I am familiar with the [python programming language](https://www.w3schools.com/python/default.asp), and in particular how to create [functions](https://www.w3schools.com/python/python_functions.asp) and [classes](https://www.w3schools.com/python/python_classes.asp).
 
 ➡️ I know how to document my functions and classes with [docstrings](https://www.geeksforgeeks.org/python-docstrings/).
+
+---
 
