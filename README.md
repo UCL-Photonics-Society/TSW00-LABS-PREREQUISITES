@@ -13,11 +13,14 @@ We’ve partnered with **industry experts** to bring you lectures and labs showc
 
 To make the most of the workshops, please review the specific **prerequisites** listed below. We can’t wait to see you during our sessions! 📚  
 
+## **Table of contents**  
+* [TSW01: REPRODUCIBLE OPEN SOURCE](#tsw01-reproducible-open-source)
+
 ## **Legend**  
 - ✅ Mandatory  
 - ➡️ Recommended  
 
-## **TSW01-REPRODUCIBLE-OPEN-SOURCE**  
+## TSW01-REPRODUCIBLE-OPEN-SOURCE 
 
 #### 💻 **OS and IDE Checklist**  
 ✅ Familiarity with basic terminal commands:  
@@ -27,7 +30,6 @@ To make the most of the workshops, please review the specific **prerequisites** 
 
 ➡️ Installation of [VS Code](https://code.visualstudio.com) with the following extensions:  
   - **Python**  
-  - **Jupyter**  
 
 ✅ Windows users: Installation of a Unix-type terminal, such as:  
   - [Git Bash in VS Code](https://www.google.com/search?client=safari&rls=en&q=git+bash+vscode&ie=UTF-8&oe=UTF-8).  
