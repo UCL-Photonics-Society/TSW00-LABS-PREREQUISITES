@@ -1,7 +1,5 @@
 # [Transferable Skills Workshops] - Labs Prerequisites
 
----
-
 ## Introduction
 
 Welcome to the **UCL Photonics Society's Transferable Skills Workshop Series**! 🎓✨  
@@ -15,23 +13,17 @@ We’ve partnered with **industry experts** to bring you lectures and labs showc
 
 To make the most of the workshops, please review the specific **prerequisites** listed below. We can’t wait to see you during our sessions! 📚  
 
----
-
-## Prerequisites  
-
-### **Legend**  
+## **Legend**  
 - ✅ Mandatory  
 - ➡️ Recommended  
 
----
-
-### **TSW01-REPRODUCIBLE-OPEN-SOURCE**  
+## **TSW01-REPRODUCIBLE-OPEN-SOURCE**  
 
 #### 💻 **OS and IDE Checklist**  
 ✅ Familiarity with basic terminal commands:  
   - `cd` (change directory)  
   - `ls` (list files)  
-  - `pwd` (print working directory)  
+  - `pwd` (print working directory)
 
 ➡️ Installation of [VS Code](https://code.visualstudio.com) with the following extensions:  
   - **Python**  
@@ -39,8 +31,8 @@ To make the most of the workshops, please review the specific **prerequisites** 
 
 ✅ Windows users: Installation of a Unix-type terminal, such as:  
   - [Git Bash in VS Code](https://www.google.com/search?client=safari&rls=en&q=git+bash+vscode&ie=UTF-8&oe=UTF-8).  
-
-
+ 
+---
 
 #### 🗂️ **Git & GitHub Checklist**  
 ✅ Installation of **Git** from the [official website](https://git-scm.com/downloads).  
@@ -62,8 +54,8 @@ To make the most of the workshops, please review the specific **prerequisites** 
   - [Branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)  
   - [Pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)  
   - [Conventional commit message structure](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13).  
-
-
+ 
+---
 
 #### 🐍 **Python Checklist**  
 ✅ Installation of [Python](https://www.python.org/downloads/) (version ≥3.10).  
@@ -74,4 +66,6 @@ To make the most of the workshops, please review the specific **prerequisites** 
 
 ➡️ Knowledge of documenting Python code with [docstrings](https://www.geeksforgeeks.org/python-docstrings/).  
 
----
+➡️ Read Poetry's documentation [Introduction](https://python-poetry.org/docs/) and the part on [Managing dependencies](https://python-poetry.org/docs/managing-dependencies/) to get a head start.
+
+
